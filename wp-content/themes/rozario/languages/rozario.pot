@@ -1,0 +1,1823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rozario v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-06-17 12:33:18+0000\n"
+"Last-Translator: admin <info@wordpress.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#: includes/vc-elements/blog-posts.php:206
+#: includes/vc-elements/blog-posts.php:256
+#: includes/vc-elements/blog-posts.php:270
+#: includes/vc-elements/blog-posts.php:324
+#: includes/vc-elements/page_title_logo.php:38
+#: includes/vc-elements/page_title_logo.php:46
+#: includes/vc-elements/svg_simple_image.php:15
+#: includes/widgets/popular_posts_widget.php:43
+#: layouts/footer-demo.php:38
+#: layouts/footer-demo.php:127
+#: layouts/footer-demo.php:163
+#: layouts/footer-demo.php:225
+#: layouts/header-menu-full-bg.php:22
+#: layouts/header-menu-full-bg.php:25
+#@ rozario
+msgid "image"
+msgstr ""
+
+#: 404.php:12
+#@ rozario
+msgid "SORRY, THE PAGE WAS NOT FOUND"
+msgstr ""
+
+#: 404.php:15
+#: content.php:90
+#: content.php:109
+#: content.php:113
+#: content.php:127
+#: includes/vc-elements/extend_tab.php:142
+#: includes/vc-elements/extend_tab.php:234
+#: includes/vc-elements/google-maps.php:124
+#: loop-blog2.php:94
+#: loop-blog2.php:115
+#: loop-blog2.php:119
+#: loop-blog2.php:130
+#: loop-blog2.php:133
+#: loop-blog2.php:136
+#@ rozario
+msgid "Icon"
+msgstr ""
+
+#: 404.php:21
+#@ rozario
+msgid ""
+"The page you were looking for is not valid. Please make sure you entered the URL correctly. It looks like nothing\n"
+"                        was found at this location. Maybe try a search? Or this page may be private."
+msgstr ""
+
+#: 404.php:29
+#: searchform.php:2
+#@ rozario
+msgid "Search ..."
+msgstr ""
+
+#: comments.php:23
+#@ rozario
+msgid "Pingback:"
+msgstr ""
+
+#: comments.php:23
+#@ rozario
+msgid "Edit"
+msgstr ""
+
+#: comments.php:40
+#@ rozario
+msgid "at"
+msgstr ""
+
+#: comments.php:64
+#@ rozario
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:67
+#@ rozario
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:70
+#@ rozario
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:90
+#, php-format
+#@ rozario
+msgctxt "comment"
+msgid "One comment"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:112
+#@ rozario
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:127
+#@ rozario
+msgid "Name *"
+msgstr ""
+
+#: comments.php:131
+#@ rozario
+msgid "Email *"
+msgstr ""
+
+#: comments.php:135
+#@ rozario
+msgid "Website"
+msgstr ""
+
+#: comments.php:138
+#@ rozario
+msgid "Comments"
+msgstr ""
+
+#: content-none.php:3
+#@ rozario
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:7
+#@ rozario
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:7
+#@ rozario
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:11
+#@ rozario
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:16
+#@ rozario
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content.php:64
+#: loop-blog2.php:73
+#: page.php:53
+#: single-portfolio.php:21
+#@ rozario
+msgid "Pages:"
+msgstr ""
+
+#: content.php:68
+#: loop-blog2.php:77
+#: page.php:57
+#: single-portfolio.php:25
+#@ rozario
+msgid "Page"
+msgstr ""
+
+#: content.php:91
+#@ rozario
+msgid "Share"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:52
+#@ rozario
+msgid "Delete image"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:52
+#@ rozario
+msgid "Delete"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:61
+#@ rozario
+msgid "Add post gallery images"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:68
+#@ rozario
+msgid "Post Gallery"
+msgstr ""
+
+#: framework/classes/class.render.meta.fields.php:118
+#@ rozario
+msgid "Choose page..."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:334
+#: includes/plugins.php:56
+#@ tgmpa
+#@ rozario
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:335
+#: includes/plugins.php:57
+#@ tgmpa
+#@ rozario
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:337
+#: includes/plugins.php:58
+#, php-format
+#@ tgmpa
+#@ rozario
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:339
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:340
+#: includes/plugins.php:59
+#@ tgmpa
+#@ rozario
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/classes/class.tgm.plugin.activation.php:343
+#: includes/plugins.php:60
+#, php-format
+#@ tgmpa
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/classes/class.tgm.plugin.activation.php:349
+#: includes/plugins.php:61
+#, php-format
+#@ tgmpa
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/classes/class.tgm.plugin.activation.php:355
+#: includes/plugins.php:66
+#, php-format
+#@ tgmpa
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/classes/class.tgm.plugin.activation.php:361
+#, php-format
+#@ tgmpa
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/classes/class.tgm.plugin.activation.php:367
+#: includes/plugins.php:63
+#, php-format
+#@ tgmpa
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/classes/class.tgm.plugin.activation.php:373
+#: includes/plugins.php:64
+#, php-format
+#@ tgmpa
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:378
+#: includes/plugins.php:68
+#@ tgmpa
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:383
+#@ tgmpa
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:388
+#: includes/plugins.php:69
+#@ tgmpa
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:392
+#: includes/plugins.php:70
+#@ tgmpa
+#@ rozario
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:393
+#: framework/classes/class.tgm.plugin.activation.php:920
+#: framework/classes/class.tgm.plugin.activation.php:2626
+#: framework/classes/class.tgm.plugin.activation.php:3673
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:394
+#: framework/classes/class.tgm.plugin.activation.php:3252
+#: includes/plugins.php:71
+#@ tgmpa
+#@ rozario
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:397
+#, php-format
+#@ tgmpa
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:399
+#, php-format
+#@ tgmpa
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/classes/class.tgm.plugin.activation.php:401
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:402
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:403
+#@ tgmpa
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:404
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:607
+#@ tgmpa
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:608
+#@ tgmpa
+msgid "Update Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:725
+#@ tgmpa
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1027
+#@ tgmpa
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1027
+#: framework/classes/class.tgm.plugin.activation.php:1030
+#@ tgmpa
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1030
+#@ tgmpa
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1214
+#: framework/classes/class.tgm.plugin.activation.php:3041
+#@ tgmpa
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/classes/class.tgm.plugin.activation.php:2075
+#, php-format
+#@ tgmpa
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2366
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2369
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2385
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2388
+#@ tgmpa
+msgid "External Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2391
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2408
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2412
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2414
+#@ tgmpa
+msgid "Active"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2420
+#@ tgmpa
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2423
+#@ tgmpa
+msgid "Requires Update"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2426
+#@ tgmpa
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/classes/class.tgm.plugin.activation.php:2435
+#, php-format
+#@ tgmpa
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/classes/class.tgm.plugin.activation.php:2481
+#, php-format
+#@ tgmpa
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/classes/class.tgm.plugin.activation.php:2485
+#, php-format
+#@ tgmpa
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/classes/class.tgm.plugin.activation.php:2489
+#, php-format
+#@ tgmpa
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/classes/class.tgm.plugin.activation.php:2493
+#, php-format
+#@ tgmpa
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2575
+#@ tgmpa
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2583
+#@ tgmpa
+msgid "Installed version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2591
+#@ tgmpa
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2603
+#@ tgmpa
+msgid "Available version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2626
+#@ tgmpa
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2640
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2641
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2642
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2646
+#@ tgmpa
+msgid "Version"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2647
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/classes/class.tgm.plugin.activation.php:2696
+#, php-format
+#@ tgmpa
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/classes/class.tgm.plugin.activation.php:2701
+#, php-format
+#@ tgmpa
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/classes/class.tgm.plugin.activation.php:2707
+#, php-format
+#@ tgmpa
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2777
+#@ tgmpa
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2810
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2816
+#@ tgmpa
+msgid "Update"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2819
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2850
+#@ tgmpa
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2852
+#@ tgmpa
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2893
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2895
+#@ tgmpa
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3001
+#@ tgmpa
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3027
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/classes/class.tgm.plugin.activation.php:3045
+#: framework/classes/class.tgm.plugin.activation.php:395
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3251
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/classes/class.tgm.plugin.activation.php:3591
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/classes/class.tgm.plugin.activation.php:3594
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:3596
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3600
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:3602
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3602
+#: framework/classes/class.tgm.plugin.activation.php:3610
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3602
+#: framework/classes/class.tgm.plugin.activation.php:3610
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3603
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/classes/class.tgm.plugin.activation.php:3605
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3608
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/classes/class.tgm.plugin.activation.php:3610
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3611
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/classes/class.tgm.plugin.activation.php:3613
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:52
+#: framework/classes/class.wp.customize.controls.php:91
+#@ rozario
+msgid "Remove"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:134
+#@ rozario
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:170
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:243
+#, php-format
+#@ rozario
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:392
+#@ rozario
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:452
+#@ rozario
+msgid "Invalid author mapping"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:553
+#@ rozario
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:641
+#, php-format
+#@ rozario
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:651
+#, php-format
+#@ rozario
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:724
+#, php-format
+#@ rozario
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:738
+#, php-format
+#@ rozario
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:759
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1541
+#, php-format
+#@ rozario
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:764
+#, php-format
+#@ rozario
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:909
+#@ rozario
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1380
+#, php-format
+#@ rozario
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1393
+#, php-format
+#@ rozario
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1397
+#, php-format
+#@ rozario
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1526
+#, php-format
+#@ rozario
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1546
+#, php-format
+#@ rozario
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1590
+#, php-format
+#@ rozario
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1603
+#@ rozario
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1608
+#@ rozario
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1614
+#, php-format
+#@ rozario
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1635
+#, php-format
+#@ rozario
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1649
+#, php-format
+#@ rozario
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1654
+#, php-format
+#@ rozario
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1669
+#, php-format
+#@ rozario
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1674
+#, php-format
+#@ rozario
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1700
+#, php-format
+#@ rozario
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1711
+#, php-format
+#@ rozario
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1756
+#, php-format
+#@ rozario
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1761
+#, php-format
+#@ rozario
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1784
+#, php-format
+#@ rozario
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1788
+#, php-format
+#@ rozario
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1803
+#, php-format
+#@ rozario
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1807
+#, php-format
+#@ rozario
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1824
+#, php-format
+#@ rozario
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:79
+#@ rozario
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:80
+#@ rozario
+msgid "Archives for"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:81
+#: includes/template-tags.php:238
+#@ rozario
+msgid "Home"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:82
+#@ rozario
+msgid "You searched for"
+msgstr ""
+
+#: functions.php:39
+#@ rozario
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:40
+#@ rozario
+msgid "Right Menu (Header middle)"
+msgstr ""
+
+#: functions.php:41
+#@ rozario
+msgid "Left Menu (Header middle)"
+msgstr ""
+
+#: functions.php:67
+#@ rozario
+msgid "Post Sidebar Area"
+msgstr ""
+
+#: functions.php:68
+#@ rozario
+msgid "Page Sidebar Area"
+msgstr ""
+
+#: functions.php:84
+#@ rozario
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:100
+#@ rozario
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:102
+#@ rozario
+msgid "Add widgets here to appear in your footer column"
+msgstr ""
+
+#: functions.php:270
+#: includes/vc-elements/blog-posts.php:236
+#: includes/vc-elements/blog-posts.php:341
+#@ rozario
+msgid "Read More"
+msgstr ""
+
+#: includes/ExtendVCRow.php:67
+#@ rozario
+msgid "Overlay"
+msgstr ""
+
+#: includes/ExtendVCRow.php:70
+#: includes/ExtendVCRow.php:100
+#: includes/vc-elements/extend_tab.php:104
+#: includes/vc-elements/extend_tab.php:192
+#@ rozario
+msgid "No"
+msgstr ""
+
+#: includes/ExtendVCRow.php:71
+#: includes/ExtendVCRow.php:101
+#: includes/vc-elements/extend_tab.php:103
+#: includes/vc-elements/extend_tab.php:191
+#@ rozario
+msgid "Yes"
+msgstr ""
+
+#: includes/ExtendVCRow.php:77
+#@ rozario
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/ExtendVCRow.php:85
+#@ rozario
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/ExtendVCRow.php:97
+#@ rozario
+msgid "One Page Section"
+msgstr ""
+
+#: includes/ExtendVCRow.php:107
+#@ rozario
+msgid "Section Label"
+msgstr ""
+
+#: includes/ExtendVCRow.php:115
+#@ rozario
+msgid "Section slug"
+msgstr ""
+
+#: includes/ExtendVCRow.php:116
+#@ rozario
+msgid "Don't need hash tag (#). You can apply a custom link to redirect."
+msgstr ""
+
+#: includes/ExtendVCRow.php:128
+#@ rozario
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/ExtendVCRow.php:131
+#: includes/ExtendVCRow.php:142
+#@ rozario
+msgid "None"
+msgstr ""
+
+#: includes/ExtendVCRow.php:132
+#@ rozario
+msgid "Left"
+msgstr ""
+
+#: includes/ExtendVCRow.php:133
+#@ rozario
+msgid "Center"
+msgstr ""
+
+#: includes/ExtendVCRow.php:134
+#@ rozario
+msgid "Right"
+msgstr ""
+
+#: includes/ExtendVCRow.php:139
+#@ rozario
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/ExtendVCRow.php:143
+#@ rozario
+msgid "Top"
+msgstr ""
+
+#: includes/ExtendVCRow.php:144
+#@ rozario
+msgid "Middle"
+msgstr ""
+
+#: includes/ExtendVCRow.php:145
+#@ rozario
+msgid "Bottom"
+msgstr ""
+
+#: includes/plugins.php:62
+#, php-format
+#@ tgmpa
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins.php:65
+#, php-format
+#@ tgmpa
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins.php:67
+#, php-format
+#@ tgmpa
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins.php:72
+#, php-format
+#@ rozario
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/template-tags.php:214
+#@ rozario
+msgid "Shop"
+msgstr ""
+
+#: includes/template-tags.php:216
+#@ rozario
+msgid "Shop Details"
+msgstr ""
+
+#: includes/template-tags.php:221
+#, php-format
+#@ rozario
+msgid "Category: <span>%s</span>"
+msgstr ""
+
+#: includes/template-tags.php:232
+#@ rozario
+msgid "Projects"
+msgstr ""
+
+#: includes/template-tags.php:241
+#@ rozario
+msgid "404 Page"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:374
+#@ rozario
+msgid "Blog"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:375
+#@ rozario
+msgid "Blog posts"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:384
+#@ rozario
+msgid "Layout Style"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:395
+#@ rozario
+msgid "Columns"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:409
+#@ rozario
+msgid "Masonry layout"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:422
+#@ rozario
+msgid "Image Align"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:435
+#@ rozario
+msgid "Posts Count"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:441
+#: includes/vc-elements/portfolio.php:212
+#@ rozario
+msgid "Pagination"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:452
+#: includes/vc-elements/portfolio.php:223
+#@ rozario
+msgid "Categories"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:453
+#: includes/vc-elements/portfolio.php:224
+#@ rozario
+msgid "Specify category Id or leave blank to display items from all categories."
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:459
+#: includes/vc-elements/button.php:66
+#: includes/vc-elements/carousel-boxed.php:180
+#: includes/vc-elements/chef_slider.php:92
+#: includes/vc-elements/image-box.php:58
+#: includes/vc-elements/mouse_wheel.php:36
+#: includes/vc-elements/page_title_logo.php:140
+#: includes/vc-elements/portfolio-single.php:87
+#: includes/vc-elements/portfolio.php:232
+#: includes/vc-elements/product_list_element.php:96
+#: includes/vc-elements/section_with_menu.php:45
+#: includes/vc-elements/separator.php:48
+#: includes/vc-elements/svg_simple_image.php:55
+#: includes/vc-elements/team.php:125
+#: includes/vc-elements/testimonials.php:197
+#: includes/vc-elements/title.php:93
+#@ rozario
+msgid "Extra Class"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:461
+#@ rozario
+msgid "If you wish text to white, you should add class \"text-light\". If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/vc-elements/button.php:22
+#@ rozario
+msgid "Button"
+msgstr ""
+
+#: includes/vc-elements/button.php:23
+#@ rozario
+msgid "rozario Button"
+msgstr ""
+
+#: includes/vc-elements/button.php:27
+#: includes/vc-elements/image-box.php:29
+#: includes/vc-elements/mouse_wheel.php:20
+#: includes/vc-elements/portfolio.php:177
+#: includes/vc-elements/section_with_menu.php:38
+#: includes/vc-elements/svg_simple_image.php:26
+#@ rozario
+msgid "rozario"
+msgstr ""
+
+#: includes/vc-elements/button.php:32
+#@ rozario
+msgid "Button text"
+msgstr ""
+
+#: includes/vc-elements/button.php:39
+#@ rozario
+msgid "Button link"
+msgstr ""
+
+#: includes/vc-elements/button.php:45
+#@ rozario
+msgid "Style"
+msgstr ""
+
+#: includes/vc-elements/button.php:55
+#: includes/vc-elements/image-box.php:40
+#: includes/vc-elements/page_title_logo.php:65
+#: includes/vc-elements/svg_simple_image.php:44
+#: includes/vc-elements/title.php:63
+#@ rozario
+msgid "Float"
+msgstr ""
+
+#: includes/vc-elements/button.php:68
+#: includes/vc-elements/carousel-boxed.php:182
+#: includes/vc-elements/chef_slider.php:94
+#: includes/vc-elements/image-box.php:60
+#: includes/vc-elements/mouse_wheel.php:38
+#: includes/vc-elements/page_title_logo.php:142
+#: includes/vc-elements/portfolio-single.php:89
+#: includes/vc-elements/portfolio.php:234
+#: includes/vc-elements/product_list_element.php:98
+#: includes/vc-elements/section_with_menu.php:47
+#: includes/vc-elements/separator.php:50
+#: includes/vc-elements/svg_simple_image.php:57
+#: includes/vc-elements/team.php:127
+#: includes/vc-elements/testimonials.php:199
+#: includes/vc-elements/title.php:95
+#@ rozario
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:119
+#@ rozario
+msgid "carousel  Slider"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:120
+#@ rozario
+msgid "Swiper carousel Slider"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:130
+#@ rozario
+msgid "Image style"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:141
+#: includes/vc-elements/chef_slider.php:59
+#: includes/vc-elements/testimonials.php:136
+#@ rozario
+msgid "Slider Arrows"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:151
+#: includes/vc-elements/chef_slider.php:69
+#: includes/vc-elements/testimonials.php:146
+#@ rozario
+msgid "Slider Bullets"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:160
+#: includes/vc-elements/chef_slider.php:78
+#: includes/vc-elements/portfolio-single.php:62
+#: includes/vc-elements/team.php:78
+#: includes/vc-elements/testimonials.php:156
+#@ rozario
+msgid "Values"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:167
+#@ rozario
+msgid "Big image"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:172
+#@ rozario
+msgid "Thumbnail image"
+msgstr ""
+
+#: includes/vc-elements/carousel-boxed.php:173
+#@ rozario
+msgid "Optional. Works on Small caraousel layout only."
+msgstr ""
+
+#: includes/vc-elements/chef_slider.php:47
+#@ rozario
+msgid "chef slider"
+msgstr ""
+
+#: includes/vc-elements/chef_slider.php:48
+#@ rozario
+msgid "Chef small slider"
+msgstr ""
+
+#: includes/vc-elements/chef_slider.php:85
+#: includes/vc-elements/image-box.php:34
+#: includes/vc-elements/product_list_element.php:87
+#: includes/vc-elements/svg_simple_image.php:31
+#: includes/vc-elements/team.php:85
+#: includes/vc-elements/testimonials.php:163
+#: includes/vc-elements/title.php:87
+#@ rozario
+msgid "Image"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:89
+#: includes/vc-elements/extend_tab.php:177
+#@ rozario
+msgid "Tabs Style"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:92
+#: includes/vc-elements/extend_tab.php:180
+#@ rozario
+msgid "Default"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:93
+#: includes/vc-elements/extend_tab.php:181
+#@ rozario
+msgid "Process (beautiful, allows process line)"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:94
+#: includes/vc-elements/extend_tab.php:182
+#@ rozario
+msgid "Service (creative, left 50% navigations)"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:100
+#: includes/vc-elements/extend_tab.php:188
+#@ rozario
+msgid "Show Process Number"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:111
+#: includes/vc-elements/extend_tab.php:199
+#@ rozario
+msgid "Content Background Image"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:118
+#: includes/vc-elements/extend_tab.php:206
+#@ rozario
+msgid "Background Image Brightness"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:121
+#: includes/vc-elements/extend_tab.php:209
+#@ rozario
+msgid "Dark"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:122
+#: includes/vc-elements/extend_tab.php:210
+#@ rozario
+msgid "Light"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:131
+#: includes/vc-elements/extend_tab.php:223
+#@ rozario
+msgid "Icon Type"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:156
+#: includes/vc-elements/extend_tab.php:248
+#@ rozario
+msgid "Image Image"
+msgstr ""
+
+#: includes/vc-elements/extend_tab.php:163
+#: includes/vc-elements/extend_tab.php:255
+#@ rozario
+msgid "Process number"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:52
+#@ rozario
+msgid "Google Map"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:53
+#@ rozario
+msgid "Google Maps Latitude, Longitude"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:63
+#@ rozario
+msgid "Latitude"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:70
+#@ rozario
+msgid "Longitude"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:78
+#@ rozario
+msgid "Hue Color"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:84
+#@ rozario
+msgid "Saturation"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:92
+#@ rozario
+msgid "Zoom"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:99
+#@ rozario
+msgid "Height"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:105
+#@ rozario
+msgid "Marker Image"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:112
+#@ rozario
+msgid "Address Title"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:118
+#@ rozario
+msgid "Address Content"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:129
+#@ rozario
+msgid "Item text"
+msgstr ""
+
+#: includes/vc-elements/image-box.php:24
+#@ rozario
+msgid "Image menu title"
+msgstr ""
+
+#: includes/vc-elements/image-box.php:25
+#@ rozario
+msgid "Image and text title"
+msgstr ""
+
+#: includes/vc-elements/image-box.php:50
+#: includes/vc-elements/page_title_logo.php:75
+#: includes/vc-elements/product_list_element.php:67
+#: includes/vc-elements/separator.php:33
+#: includes/vc-elements/team.php:91
+#: includes/vc-elements/title.php:73
+#@ rozario
+msgid "Title text"
+msgstr ""
+
+#: includes/vc-elements/mouse_wheel.php:15
+#@ rozario
+msgid "Mouse wheel"
+msgstr ""
+
+#: includes/vc-elements/mouse_wheel.php:16
+#@ rozario
+msgid "mouse wheel"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:53
+#@ rozario
+msgid "tt_page_title"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:54
+#@ rozario
+msgid "Page title text element"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:82
+#: includes/vc-elements/separator.php:40
+#: includes/vc-elements/team.php:98
+#: includes/vc-elements/title.php:80
+#@ rozario
+msgid "Sub title text"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:89
+#@ rozario
+msgid " Top Image"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:94
+#@ rozario
+msgid "Bottom Image"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:100
+#@ rozario
+msgid "Button "
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:109
+#@ rozario
+msgid "Button1 Name"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:116
+#: includes/vc-elements/page_title_logo.php:130
+#@ rozario
+msgid "Link"
+msgstr ""
+
+#: includes/vc-elements/page_title_logo.php:123
+#@ rozario
+msgid "Button2 Name"
+msgstr ""
+
+#: includes/vc-elements/portfolio-single.php:46
+#@ rozario
+msgid "Portfolio single "
+msgstr ""
+
+#: includes/vc-elements/portfolio-single.php:47
+#@ rozario
+msgid "content "
+msgstr ""
+
+#: includes/vc-elements/portfolio-single.php:56
+#@ rozario
+msgid "Title"
+msgstr ""
+
+#: includes/vc-elements/portfolio-single.php:71
+#: includes/vc-elements/testimonials.php:176
+#@ rozario
+msgid "Name"
+msgstr ""
+
+#: includes/vc-elements/portfolio-single.php:77
+#: includes/vc-elements/product_list_element.php:74
+#: includes/vc-elements/testimonials.php:182
+#@ rozario
+msgid "Detail text"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:74
+#@ rozario
+msgid "No image"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:105
+#@ rozario
+msgid "View more"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:152
+#@ rozario
+msgid "All"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:172
+#@ rozario
+msgid "Portfolio"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:173
+#@ rozario
+msgid "post type: portfolio"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:184
+#@ rozario
+msgid "Filter"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:194
+#@ rozario
+msgid "Space"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:205
+#@ rozario
+msgid "Posts per page"
+msgstr ""
+
+#: includes/vc-elements/product_list_element.php:47
+#@ rozario
+msgid "Product list"
+msgstr ""
+
+#: includes/vc-elements/product_list_element.php:48
+#@ rozario
+msgid "Product menu  element"
+msgstr ""
+
+#: includes/vc-elements/product_list_element.php:58
+#@ rozario
+msgid "Product image"
+msgstr ""
+
+#: includes/vc-elements/product_list_element.php:80
+#@ rozario
+msgid "Price"
+msgstr ""
+
+#: includes/vc-elements/section_with_menu.php:33
+#@ rozario
+msgid "Section"
+msgstr ""
+
+#: includes/vc-elements/section_with_menu.php:34
+#@ rozario
+msgid "section menu"
+msgstr ""
+
+#: includes/vc-elements/separator.php:23
+#@ rozario
+msgid "separator"
+msgstr ""
+
+#: includes/vc-elements/separator.php:24
+#@ rozario
+msgid " separator element"
+msgstr ""
+
+#: includes/vc-elements/svg_simple_image.php:21
+#@ rozario
+msgid "Simple image"
+msgstr ""
+
+#: includes/vc-elements/svg_simple_image.php:22
+#@ rozario
+msgid "SVG simple image "
+msgstr ""
+
+#: includes/vc-elements/svg_simple_image.php:36
+#@ rozario
+msgid "Size"
+msgstr ""
+
+#: includes/vc-elements/team.php:67
+#@ rozario
+msgid "Team Slider"
+msgstr ""
+
+#: includes/vc-elements/team.php:68
+#@ rozario
+msgid "Swiper Team Slider"
+msgstr ""
+
+#: includes/vc-elements/team.php:105
+#@ rozario
+msgid "Twitter"
+msgstr ""
+
+#: includes/vc-elements/team.php:111
+#@ rozario
+msgid "Linkedin"
+msgstr ""
+
+#: includes/vc-elements/team.php:117
+#@ rozario
+msgid "Instagram"
+msgstr ""
+
+#: includes/vc-elements/testimonials.php:115
+#@ rozario
+msgid "Testimonials"
+msgstr ""
+
+#: includes/vc-elements/testimonials.php:116
+#@ rozario
+msgid "Swiper  Slider"
+msgstr ""
+
+#: includes/vc-elements/testimonials.php:126
+#@ rozario
+msgid "Layout"
+msgstr ""
+
+#: includes/vc-elements/testimonials.php:170
+#@ rozario
+msgid "Role"
+msgstr ""
+
+#: includes/vc-elements/testimonials.php:188
+#@ rozario
+msgid "Position"
+msgstr ""
+
+#: includes/vc-elements/title.php:42
+#@ rozario
+msgid "title"
+msgstr ""
+
+#: includes/vc-elements/title.php:43
+#@ rozario
+msgid "content title text element"
+msgstr ""
+
+#: includes/vc-elements/title.php:53
+#@ rozario
+msgid "Separator"
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:79
+#@ rozario
+msgid "Title:"
+msgstr ""
+
+#: includes/woo.php:98
+#@ rozario
+msgid "add to cart"
+msgstr ""
+
+#: layouts/footer-demo.php:238
+#: layouts/footer-demo.php:239
+#: layouts/footer-demo.php:240
+#: layouts/footer-demo.php:241
+#: layouts/footer-demo.php:242
+#: layouts/footer-demo.php:243
+#@ rozario
+msgid "flickr image"
+msgstr ""
+
+#: sidebar.php:16
+#@ rozario
+msgid "Please add your widgets."
+msgstr ""
+

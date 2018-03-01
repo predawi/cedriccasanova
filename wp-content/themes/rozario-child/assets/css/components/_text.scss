@@ -1,0 +1,16 @@
+/* Headings
+----------------------------------------------------------------------------------------------------*/
+
+@for $i from 1 through 6 {
+	h#{$i} {
+		line-height: $heading-line-height;
+		font-size: $heading-font-size - ($i - 1) * 2px;
+		font-family: $customfont-2;
+		.fonts-loading & {
+			font-family: $font-sansserif;
+		}
+	}
+}
+strong {
+	
+}
