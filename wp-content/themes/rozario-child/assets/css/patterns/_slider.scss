@@ -1,0 +1,8 @@
+.main-slider {
+    @for $i from 1 through 6 {
+        h#{$i} {
+            font-weight: 900 !important;
+            font-family: $font-sansserif !important;
+        }
+    }
+}

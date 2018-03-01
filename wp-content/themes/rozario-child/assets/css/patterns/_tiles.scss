@@ -1,0 +1,38 @@
+.base-tile {
+    position: relative;
+    &--shadow {
+        &:after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0.3;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            background: $darkcolor;
+        }
+    }
+    .wpb_wrapper {
+        z-index: 1;
+        position: relative;
+    }
+    h2 {
+        color: $lightcolor;
+        font-size: 30px;
+        font-weight: 300;
+        strong {
+            color: $lightcolor;
+            font-weight: 900;
+        }
+        a {
+            color: $lightcolor;
+            @include hover {
+                color: $lightcolor;
+            }
+        }
+        @media screen and (min-width: $desktop-small) {
+            font-size: 45px;
+        }
+    }
+}

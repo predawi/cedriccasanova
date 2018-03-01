@@ -1,5 +1,29 @@
 /* Header css
  ----------------------------------------------------------------------------------------------------*/
-.header {
-	
+body {
+	header {
+		&#header {
+			position: relative;
+			background: $darkcolor;
+			#logo {
+				&.logo-image {
+					margin-top: 0;
+					margin-bottom: 0;
+				}
+			}
+			&.menu-below-logo {
+				nav {
+					&.main-nav {
+						margin-bottom: 0;
+						&>ul {
+							&>li {
+								font-family: $font-sansserif;
+								font-weight: 700;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
 }

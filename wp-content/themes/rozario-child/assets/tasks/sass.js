@@ -32,9 +32,9 @@ module.exports = function (gulp, plugins) {
 			.pipe(sourcemaps.init({identityMap:true, debug: true}))
 				.pipe(sass(sassOptions).on('error', sass.logError))
 				.pipe(autoprefixer(autoprefixerOptions))
-				.pipe(minifyCSS())
+				.pipe(minifyCSS({level: {1: {specialComments: 'all'}}}))
 			.pipe(sourcemaps.write('.'))
-			.pipe(gulp.dest('./assets/css'));
+			.pipe(gulp.dest(''));
 		//production css with px to rem conversion
 		gulp.src(['assets/css/style.scss'])
 			.pipe(sass(sassOptions).on('error', sass.logError))
