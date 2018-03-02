@@ -9,7 +9,6 @@ $(document).ready(function () {
   let urlString = window.location.href
   let url = new URL(urlString)
   let scroll = url.searchParams.get('scroll')
-  console.log(scroll)
 
   if (scroll === 'reservation') {
     $('html, body').animate({ scrollTop: $('.rtb-booking-form').offset().top - 150 }, 750)

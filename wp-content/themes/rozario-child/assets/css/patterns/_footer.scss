@@ -1,5 +1,65 @@
 /* Footer css
  ----------------------------------------------------------------------------------------------------*/
-.footer {
-	
+body {
+    footer#footer {
+        @include clearfix;
+        .widget {
+            .shop {
+                font-family: $font-sansserif;
+            }
+        }
+        .footer-container {
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        .mc4wp-form {
+            font-family: $font-sansserif;
+            font-style: normal;
+            text-align: center;
+            input[type=submit] {
+                color: $lightcolor;
+                border: 1px solid $lightcolor;
+                @include hover {
+                    background: $lightcolor;
+                    color: $darkcolor;
+                }
+            }
+        }
+    }
+}
+.footer_widget {
+    &:first-of-type {
+        float: none;
+        max-width: 400px;
+        margin: 0 auto 30px;
+    }
+    @media screen and (min-width: $tablet-small) {
+        float: left;
+        width: 50%;
+    }
+    @media screen and (min-width: $desktop-small) {
+        width: 25%;
+    }
+}
+.shop {
+    text-align: center;
+    font-style: normal;
+    @media screen and (min-width: $desktop-small) {
+        text-align: left;
+    }
+    &__title {
+        color: $lightcolor;
+        font-weight: 300;
+    }
+    p {
+        color: #A4A4A4;
+    }
+    a {
+        text-decoration: none;
+        color: #A4A4A4;
+        @include hover {
+            color: $lightcolor;
+            text-decoration: underline;
+        }
+    }
 }
