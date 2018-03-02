@@ -4,6 +4,7 @@ body {
 	header {
 		&#header {
 			position: relative;
+			z-index: 9998;
 			background: $darkcolor;
 			#logo {
 				&.logo-image {

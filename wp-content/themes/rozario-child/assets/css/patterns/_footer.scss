@@ -13,16 +13,32 @@ body {
             padding-bottom: 30px;
         }
         .mc4wp-form {
+            margin-bottom: 50px;
             font-family: $font-sansserif;
             font-style: normal;
             text-align: center;
+            label {
+                text-transform: uppercase;
+                font-weight: 300;
+            }
             input[type=submit] {
                 color: $lightcolor;
                 border: 1px solid $lightcolor;
+                border-radius: 0;
                 @include hover {
                     background: $lightcolor;
                     color: $darkcolor;
                 }
+            }
+            input[type=text],
+            input[type=password],
+            input[type=url],
+            input[type=email] {
+                font-family: $font-sansserif;
+                font-style: normal;
+                text-align: center;
+                border: 1px solid $lightcolor;
+                background: #111111;
             }
         }
     }

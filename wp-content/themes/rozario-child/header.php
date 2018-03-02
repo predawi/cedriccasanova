@@ -12,6 +12,15 @@
 </head>
 
 <body <?php body_class(); ?>>
+<div class="button-nav__wrapper">
+    <button class="button-nav button-nav--open">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/menu-open.svg" alt="">
+    </button>
+    <button class="button-nav button-nav--close">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/menu-close.svg" alt="">
+    </button>
+</div>
+
 <div class="wrapper">
 <?php
 $header_layout = TT::get_mod('header_layout');

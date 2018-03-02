@@ -30,6 +30,7 @@ div.rtb-booking-form {
             margin-top: 30px;
             color: $darkcolor;
             border: 1px solid $darkcolor;
+            border-radius: 0;
             @include hover {
                 background: $darkcolor;
                 color: $lightcolor;
