@@ -1,8 +1,10 @@
 /* Headings
 ----------------------------------------------------------------------------------------------------*/
-body,
-p {
-	font-family: $font-sansserif;
+html {
+	body,
+	p {
+		font-family: $font-sansserif;
+	}
 }
 @for $i from 1 through 6 {
 	h#{$i} {

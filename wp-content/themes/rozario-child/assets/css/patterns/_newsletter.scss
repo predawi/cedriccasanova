@@ -1,0 +1,39 @@
+div.rtb-booking-form {
+    margin: 40px 0;
+    @include clearfix;
+    fieldset {
+        @media screen and (min-width: $desktop-small) {
+            float: left;
+            width: 48%;
+            &:nth-child(odd) {
+                float: right;
+            }
+        }
+    }
+    legend {
+        display: none;
+        padding: 0;
+        text-transform: uppercase;
+    }
+    label {
+        font-weight: 300;
+        text-transform: uppercase;
+        color: #808080;
+    }
+    form {
+        input,
+        select,
+        textarea {
+            border-color: $darkcolor;
+        }
+        button[type=submit] {
+            margin-top: 30px;
+            color: $darkcolor;
+            border: 1px solid $darkcolor;
+            @include hover {
+                background: $darkcolor;
+                color: $lightcolor;
+            }
+        }
+    }
+}
