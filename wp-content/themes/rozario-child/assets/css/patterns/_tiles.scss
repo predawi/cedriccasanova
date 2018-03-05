@@ -11,11 +11,24 @@
             height: 100%;
             z-index: 0;
             background: $darkcolor;
+            transition: opacity .3s ease-in-out;
+        }
+        @include hover {
+            &:after {
+                opacity: .6;
+            }
         }
     }
     .wpb_wrapper {
         z-index: 1;
         position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        a {
+            padding-right: 20px;
+            padding-left: 20px;
+        }
     }
     h2 {
         color: $lightcolor;
@@ -33,6 +46,25 @@
         }
         @media screen and (min-width: $desktop-small) {
             font-size: 45px;
+        }
+    }
+    &--overlay {
+        .wpb_wrapper {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            a {
+                position: absolute;
+                top: 0;
+                left: 0;
+                display: flex;
+                width: 100%;
+                height: 100%;
+                align-items: center;
+                justify-content: center;
+            }
         }
     }
 }

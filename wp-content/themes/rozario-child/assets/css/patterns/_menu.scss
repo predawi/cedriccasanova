@@ -5,10 +5,12 @@ body {
 }
 .main-nav {
     position: absolute;
-    z-index: 9997;
+    z-index: -1;
     top: 0; left: 0;
-    width: 100%; height: 100%;
-    padding: 160px 0 0;
+    width: 100%;
+    height: 100%;
+    padding: 140px 0 0;
+    overflow: auto;
     background: rgba($darkcolor, 0.9);
     text-align: center;
     opacity: 0;
@@ -18,7 +20,7 @@ body {
     }
     .nav-opened & {
         display: block;
-        z-index: 9998;
+        z-index: 9997;
     }
     .show-nav & {
         opacity: 1;
@@ -28,8 +30,8 @@ body {
         list-style-type: none;
     }
     .menu-item {
-        line-height: 32px;
-        font-size: 25px;
+        line-height: 50px;
+        font-size: 32px;
         font-weight: 900;
         font-family: $font-sansserif;
         @media screen and (min-width: $tablet-medium) {
@@ -62,7 +64,7 @@ body {
     &__wrapper {
         position: absolute;
         z-index: 9999;
-        top: 40px;
+        top: 43px;
         left: 20px;
         .admin-bar & {
             top: 88px;
