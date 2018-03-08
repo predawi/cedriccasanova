@@ -26,13 +26,19 @@ $(document).ready(function () {
     })
   }
 
-  // Check if reservation was clicked
+  // Check if booking was clicked
   let urlString = window.location.href
   let url = new URL(urlString)
   let scroll = url.searchParams.get('scroll')
 
   if (scroll === 'reservation') {
     $('html, body').animate({ scrollTop: $('.rtb-booking-form').offset().top - 150 }, 750)
+  }
+
+  // Show message field for booking form
+  if ($('.rtb-booking-form').length) {
+    $('.add-message').hide('')
+    $('.rtb-textarea').addClass('message-open')
   }
 
   // Reorder reservation form
