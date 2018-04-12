@@ -43,6 +43,17 @@ body {
             color: $lightcolor;
         }
     }
+    .sub-menu {
+        .menu-item {
+            margin: 5px 0;
+            line-height: 24px;
+            font-size: 20px;
+            @media screen and (min-width: $tablet-medium) {
+                line-height: 35px;
+                font-size: 25px;
+            }
+        }
+    }
     #mobile-menu {
         display: none;
     }
