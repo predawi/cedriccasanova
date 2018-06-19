@@ -4,12 +4,20 @@
             font-weight: 900 !important;
             font-family: $font-sansserif !important;
             font-size: 45px !important;
+            a {
+                font-weight: 900 !important;
+                font-family: $font-sansserif !important;
+                font-size: 45px !important;
+            }
         }
     }
     @media screen and (min-width: $tablet-medium) {
         @for $i from 1 through 6 {
             h#{$i} {
                 font-size: 84px !important;
+                a {
+                    font-size: 84px !important;
+                }
             }
         }
     }
